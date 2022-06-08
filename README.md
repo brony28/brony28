@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Seasonal coder? More like impulsive coder.
+Mostly using this as my personal dump of codes and stuffs. 
+
+
+
 <!--
 **brony28/brony28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
