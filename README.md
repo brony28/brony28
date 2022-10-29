@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-Seasonal coder? More like impulsive coder.
-Mostly using this as my personal dump of codes and stuffs. 
+Seasonal coder? More like impulsive one. 
+Mostly using this as my public dump of codes and stuffs. 
 
-
+- 🔭 I’m currently working on BI Tool.
+- 🌱 I’m currently learning .... TBD
 
 <!--
 **brony28/brony28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
