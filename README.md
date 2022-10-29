@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 Seasonal coder? More like impulsive one. 
-Mostly using this as my public dump of codes and stuffs. 
+Mostly using this as my public/private dump of codes and stuffs. 
 
-- 🔭 I’m currently working on BI Tool.
+- 🔭 I’m currently working on PowerBI (BI Tool).
 - 🌱 I’m currently learning .... TBD
+- 🤔 I’m looking for help with ... getting back on track.
 
 <!--
 **brony28/brony28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
