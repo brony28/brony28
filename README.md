@@ -7,7 +7,7 @@ Mostly using this as my public/private dump of codes and stuffs.
 - 🌱 I’m currently learning .... TBD
 - 🤔 I’m looking for help with ... getting back on track.
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=brony28.brony28)](https://brony28.github.io/brony28)
+
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=brony28)
 
