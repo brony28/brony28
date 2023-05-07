@@ -7,9 +7,7 @@ Mostly using this as my public/private dump of codes and stuffs.
 - 🌱 I’m currently learning .... TBD
 - 🤔 I’m looking for help with ... getting back on track.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=brony28&left_color=green&right_color=red)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=brony28.brony28)](https://your_username.github.io/your_repo_name)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=brony28.brony28)](https://brony28.github.io/brony28)
 
 
 <!--
