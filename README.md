@@ -7,6 +7,8 @@ Mostly using this as my public/private dump of codes and stuffs.
 - 🌱 I’m currently learning .... TBD
 - 🤔 I’m looking for help with ... getting back on track.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=brony28&left_color=green&right_color=red)
+
 <!--
 **brony28/brony28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
