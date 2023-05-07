@@ -9,6 +9,9 @@ Mostly using this as my public/private dump of codes and stuffs.
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=brony28.brony28)](https://brony28.github.io/brony28)
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=brony28)
+
+
 
 <!--
 **brony28/brony28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
