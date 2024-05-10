@@ -3,11 +3,11 @@
 Seasonal coder? More like an impulsive one. 
 Mostly use this as my public/private dump of codes and stuff. 
 
-- 🔭 I’m currently working on PowerBI (BI Tool). 
+- 🔭 I’m currently working as a Data Analyst, primarily using PowerBI (BI Tool). Also a certified MS Data Analyst by clearing the PL300 certification. 
 - 🌱 I’m curious about almost all domains of tech except Blockchain(still don't understand it). 
-- 🤔 I’m looking for help with ... getting back on track.
+- 🤔 TBD
 
-Will update more when I feel active. 
+Will update more here, as and when I progress in the tech journey.
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=brony28)
 
